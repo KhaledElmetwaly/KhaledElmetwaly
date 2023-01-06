@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @KhaledElmetwaly
-- 👀 I’m interested in mobile application development
-- 🌱 I’m a Junior Flutter Developer
-- 💞️ I’m looking to collaborate on Flutter Apps
-- 📫 you can reach me on khaled.elmetwaly321@gmail.com
+# Hi there 👋
 
+- 🔭 I’m currently Looking for a Full-time job
+- 🌱 I’m currently Junior flutter
+- 💬 Ask me about [Dart,Flutter]
+- 📫 How to reach me: ...
+
+[![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/KhaledElmetwaly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/khaled-elmetwaly-555a32223/)
+
+![KhaledElmetwaly GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledElmetwaly&show_icons=true&theme=dark)
 
