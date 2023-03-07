@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently Looking for a Full-time job
-- 🌱 I’m currently Junior flutter
+- 🌱 I’m currently Junior Flutter Developer  
 - 💬 Ask me about [Dart,Flutter]
 - 📫 How to reach me: ...
 
